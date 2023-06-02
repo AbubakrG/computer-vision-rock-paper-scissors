@@ -15,6 +15,7 @@ while True:
     cv2.imshow('frame', frame)
     # Press q to close the window
     print(prediction)
+    print(np.argmax(prediction))
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
             
