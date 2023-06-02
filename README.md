@@ -10,4 +10,4 @@ This is the 2nd project of my AiCore Journey.
 # What I learned
 Create a teachable machine model that recognises different hand signals for the game.
 How tools like machine learning can be used to supplement projects such as these and take them to the next level.
-How to set up environment, set up necessary packages, troubleshoot problems with python versions not being compaticle with packages etc.
+How to set up environment, set up necessary packages, troubleshoot problems with python versions not being compaticle with packages etc
